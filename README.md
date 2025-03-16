@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Zunaira Sabir</h1>
+<h1 align="center">Hi 👋, I'm Zunaira </h1>
 <h3 align="center">Passionate about technology, always learning, and turning ideas into reality through code.</h3><br>
 
 ## ✨ About Me:
