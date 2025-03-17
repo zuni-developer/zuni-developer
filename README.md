@@ -2,11 +2,11 @@
 <h3 align="center">Passionate about technology, always learning, and turning ideas into reality through code.</h3><br>
 
 ## ✨ About Me:
-🔭 I’m currently working on expanding my skill set across multiple domains and exploring new technologies.<br><br>
-🌱 I’m currently learning JavaScript and Data Structures & Algorithms (DSA).<br><br>
-👯 I’m looking forward to collaborating on exciting web development projects.<br><br>
-📫 How to reach me: zunairasabir7@gmail.com<br><br>
-⚡ <b>Fun fact:</b> If I don’t know how to implement something in my project, I’ll learn it—no questions asked! I love figuring things out and completing my tasks ahead of time because nothing feels better than bringing an idea to life. <br><br>
+🔭 Passionate for expanding my skill set across multiple domains and exploring new technologies.<br><br>
+🌱 Currently learning JavaScript and Data Structures & Algorithms (DSA).<br><br>
+👯 Looking forward to collaborating on exciting web development projects.<br><br>
+📫 Reach out to me- > zunairasabir7@gmail.com<br><br>
+⚡ <b>Fun fact:</b> If I don’t know how to implement something in my project, I’ll learn it! No questions asked! I love figuring things out and completing my tasks ahead of time because nothing feels better than bringing an idea to life. <br><br>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/mWQHy6U2) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunaira-sabir-b1878331a/)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zunairasabir7@gmail.com)  
