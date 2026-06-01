@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Zunaira </h1>
+
+![Profile Views](https://komarev.com/ghpvc/?username=zuni-developer&label=Profile%20Views&color=blue&style=flat)
+[![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fzuni-developer&style=flat)](https://rankistan.dev)
+
 <h3 align="center">Passionate about technology, always learning, and turning ideas into reality through code.</h3><br>
 
 ## ✨ About Me:
@@ -28,5 +32,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuni-developer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=zuni-developer&label=Profile%20Views&color=blue&style=flat)
-
