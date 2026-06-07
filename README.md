@@ -25,9 +25,8 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)<br><br>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zuni-developer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=zuni-developer&theme=transparent&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zuni-developer&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br><br>
+# 📊 GitHub Stats:<p align="center">
 
----
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=zuni-developer&theme=transparent" />
+</p>
