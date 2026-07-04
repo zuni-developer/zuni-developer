@@ -17,11 +17,10 @@ Someone who enjoys building, learning, and figuring things out.
 
 ## ✨ About Me
 
-- 🌱 Currently learning **JavaScript** and **Data Structures & Algorithms**
-- 💻 Interested in **Web Development**, **AI**, and building useful projects
-- 🤝 Always open to collaborating on interesting projects
-- 📫 **Email:** zunairasabir7@gmail.com
-- ⚡ **Fun fact:** If I don't know how to build something, I'll learn it until I do.
+- Currently learning **JavaScript** and **Data Structures & Algorithms**
+- Interested in **Web Development**, **AI**, and building useful projects
+- Always open to collaborating on interesting projects
+- **Fun fact:** If I don't know how to build something, I'll learn it until I do.
 
 ## Connect
 
