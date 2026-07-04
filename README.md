@@ -44,12 +44,12 @@ Someone who enjoys building, learning, and figuring things out.
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat&logo=bootstrap&logoColor=white)
 
 ## GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zuni-developer&show_icons=true&theme=transparent&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuni-developer&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
-
+-->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=zuni-developer&theme=transparent&hide_border=true"/>
 </p>
