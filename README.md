@@ -1,4 +1,4 @@
-![Profile Views](https://komarev.com/ghpvc/?username=zuni-developer&label=Profile%20Views&color=blue&style=flat)
+[![Profile Views](https://komarev.com/ghpvc/?username=zuni-developer&label=Profile%20Views&style=flat)](https://github.com/zuni-developer)
 [![Rankistan rank badge](https://img.shields.io/endpoint?url=https%3A%2F%2Frankistan-summary-api.academics-ali.workers.dev%2Fapi%2Fbadge%2Fzuni-developer&style=flat)](https://rankistan.dev)
 
 <!-- Animated Header -->
