@@ -17,10 +17,13 @@ Someone who enjoys building, learning, and figuring things out.
 
 ## ✨ About Me
 
-- Currently learning **JavaScript** and **Data Structures & Algorithms**
-- Interested in **Web Development**, **AI**, and building useful projects
+- Currently learning **Full Stack Development**
+- Interested in **CyberSecuirity**, **AI**, and building useful projects
 - Always open to collaborating on interesting projects
 - **Fun fact:** If I don't know how to build something, I'll learn it until I do.
+
+###
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
 
 ## Connect
 
@@ -36,15 +39,11 @@ Someone who enjoys building, learning, and figuring things out.
 </p>
 
 ## GitHub Stats
-<!--
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuni-developer&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuni-developer&layout=compact&theme=transparent&hide_border=true" height="165"/>
-</p>
--->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=zuni-developer&theme=transparent&hide_border=true"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuni-developer&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuni-developer&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+</div>
+
 
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:8B5CF6&height=120&section=footer"/>
