@@ -22,9 +22,6 @@ Someone who enjoys building, learning, and figuring things out.
 - Always open to collaborating on interesting projects
 - **Fun fact:** If I don't know how to build something, I'll learn it until I do.
 
-###
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" />
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zunaira-sabir-b1878331a/)
